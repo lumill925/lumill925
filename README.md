@@ -1,5 +1,7 @@
-<h3 align="center"> Jung Min </h3>
+<h3 align="center"> ⭐ Jung Min ⭐ </h3>
+<h3 align="center"> 백엔드 주니어 개발자 입니다. </h3>
 
+</br>
 
 <h3 align="center"> 🛠️Once I've Used🛠️ </h3>
 <div align="center">
@@ -16,6 +18,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=MySQL&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=Amazon AWS&logo=Amazon AWS&logoColor=white"/> 
 </div>
+
+</br>
+</br>
 
 <div align="center">
 
