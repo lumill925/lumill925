@@ -1,5 +1,5 @@
 <h3 align="center"> ⭐ Jung Min ⭐ </h3>
-<h3 align="center"> 백엔드 주니어 개발자 입니다. </h3>
+<h3 align="center"> 백엔드 주니어 개발자 노정민입니다. </h3>
 
 </br>
 
